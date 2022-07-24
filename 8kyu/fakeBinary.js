@@ -1,0 +1,1 @@
+const fakeBin = x => [...x].map(char => char >= 5 ? '1' : '0').join('')
