@@ -15,3 +15,5 @@ function decipherLeetSpeak(str) {
 
 	return res;
 }
+
+console.log(decipherLeetSpeak("e!!Igv)t5lltBcvbdeDH3dVw!OOtI#Aa.ZMDu7WYpP^VVjDc4I50iv#ylhgmQfs"));
